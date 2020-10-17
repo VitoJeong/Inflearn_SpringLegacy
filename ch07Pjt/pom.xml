@@ -6,7 +6,7 @@
 	<!-- pom.xml파일은 maven설정파일로 maven은 라이브러리를 연결(다운로드해주고), 빌드를 위한 플랫폼이다. -->
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>spring4</groupId>
-	<artifactId>testPjt</artifactId>
+	<artifactId>ch07Pjt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>

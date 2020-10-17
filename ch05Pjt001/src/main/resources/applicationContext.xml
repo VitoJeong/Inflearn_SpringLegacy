@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+ 		http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- src/main/resources 자원파일관리 폴더 
+		- 스프링 설정 파일(XML) 또는 프로퍼티 파일 등이 관리됨 -->
+	
+	<!-- Spring Container에 객체(bean)를 생성해놓음 -->
+	<bean id="tWalk" class="ch05Pjt001.TransportationWalk" />
+	
+</beans>
